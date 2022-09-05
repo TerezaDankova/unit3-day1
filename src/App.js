@@ -12,10 +12,9 @@ function App() {
       <ButtonComponent label="This is a button " ButtonContainer={{
               fontSize: 30,
               elevation: 8,
-              backgroundColor: "#D3FFCE",
+              backgroundColor: "#C1D5EE",
               borderRadius: 50,
-              
-              
+              color: "#006661"  
       }}/>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
