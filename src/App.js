@@ -13,7 +13,7 @@ function App() {
               fontSize: 30,
               elevation: 8,
               backgroundColor: "#C1D5EE",
-              borderRadius: 50,
+              border: "none",
               color: "#006661"  
       }}/>
         <img src={logo} className="App-logo" alt="logo" />
